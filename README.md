@@ -37,9 +37,20 @@
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panchamdesai/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.datascienceportfol.io/panchamdesai847)  
-📬 pdesai22@student.gsu.edu  
+<p align="center">
+  <a href="https://www.linkedin.com/in/panchamdesai/" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.datascienceportfol.io/panchamdesai847" target="_blank">
+    <img height="40" src="https://img.shields.io/badge/Portfolio-View-black?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:pdesai22@student.gsu.edu">
+    <img height="40" src="https://img.shields.io/badge/Email-pdesai22@student.gsu.edu-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
