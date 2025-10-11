@@ -8,55 +8,34 @@
 
 ## ⚡ About Me
 
-- 4+ years of experience in **AI/ML, NLP, and GenAI**
-- Built **demand forecasting**, **essay scoring**, and **HR assistant** tools using LLaMA 3, Groq, and GPT APIs
-- Deployed scalable ML systems on **Azure** and **Streamlit/Flask**  
-- Passionate about building **agentic and RAG-based AI solutions**
+- 4+ years of experience building AI/ML pipelines, NLP tools, and GenAI apps  
+- Worked on demand forecasting ($400M cost savings), essay scoring (QWK: 0.90), and HR assistants using LLaMA 3, Groq, OpenAI  
+- Skilled in designing RAG systems, deploying ML on Azure, and scaling real-world data products
 
 ---
 
 ## 🧠 Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-
-**ML & AI**  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)  
-![LLaMA3](https://img.shields.io/badge/-LLaMA3-663399?style=flat)  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
-
-**Cloud & Tools**  
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-**Databases & Vector Stores**  
-![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
-![Pinecone](https://img.shields.io/badge/-Pinecone-27AE60?style=flat)  
-![FAISS](https://img.shields.io/badge/-FAISS-4A90E2?style=flat)
+| Languages      | ML & AI                           | Cloud & Deployment        | Vector DBs / Tools     |
+|----------------|------------------------------------|----------------------------|-------------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) <br> ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) <br> ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) <br> ![LangChain](https://img.shields.io/badge/-LangChain-000000) <br> ![LLaMA](https://img.shields.io/badge/-LLaMA3-663399) <br> ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) | ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoftazure&logoColor=white) <br> ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) <br> ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white) <br> ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) <br> ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) | ![FAISS](https://img.shields.io/badge/-FAISS-4A90E2) <br> ![Pinecone](https://img.shields.io/badge/-Pinecone-27AE60) <br> ![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white) |
 
 ---
 
 ## 🚀 Projects
 
 **📦 Demand Forecasting**  
-→ Stacked LGBM/RF model | 📉 4% MAPE | 💰 Saved $400M
+→ Stacked LGBM + RF model | 4% MAPE | $400M savings
 
 **📝 Essay Scoring (PERSUADE 2.0)**  
-→ LLaMA 3 + Groq | 🧠 QWK: 0.90 | 📊 F1: 0.80
+→ LLaMA 3 + Groq | QWK: 0.90 | F1: 0.80
 
 **🤖 AI-Powered HR Assistant**  
-→ RAG + Neo4j + GPT | 🔍 Skill-based resume retrieval | ⏱️ Cut hiring time by 50%
+→ RAG + Neo4j + GPT | 50% reduction in hiring time
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panchamdesai/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.datascienceportfol.io/panchamdesai847)  
