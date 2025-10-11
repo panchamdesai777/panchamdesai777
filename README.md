@@ -27,9 +27,6 @@
 **📦 Demand Forecasting**  
 → Stacked LGBM + RF model | 4% MAPE | $400M savings
 
-**📝 Essay Scoring (PERSUADE 2.0)**  
-→ LLaMA 3 + Groq | QWK: 0.90 | F1: 0.80
-
 **🤖 AI-Powered HR Assistant**  
 → RAG + Neo4j + GPT | 50% reduction in hiring time
 
