@@ -21,15 +21,6 @@
 
 ---
 
-## 🚀 Projects
-
-**📦 Demand Forecasting**  
-→ Stacked LGBM + RF model | 4% MAPE | $400M savings
-
-**🤖 AI-Powered HR Assistant**  
-→ RAG + Neo4j + GPT | 50% reduction in hiring time
-
----
 
 ## 📫 Let’s Connect
 
