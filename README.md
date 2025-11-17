@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pancham Desai
 
 🎓 Data Science Grad @ GSU | 🧠 Ex-Thinkbridge Sr. Data Scientist  
-💡 GenAI | ML | NLP | Forecasting | Cloud | RAG Systems  
+💡 GenAI | ML | NLP | Forecasting | Cloud | RAG Systems | Agentic AI 
 📍 Atlanta, GA | Open to Full-time Roles (Dec 2025)
 
 ---
