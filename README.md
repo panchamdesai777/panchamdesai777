@@ -8,9 +8,8 @@
 
 ## ⚡ About Me
 
-- 4+ years of experience building AI/ML pipelines, NLP tools, and GenAI apps  
-- Worked on demand forecasting ($400M cost savings), essay scoring (QWK: 0.90), and HR assistants using LLaMA 3, Groq, OpenAI  
-- Skilled in designing RAG systems, deploying ML on Azure, and scaling real-world data products
+- I have 5+ years of experience leveraging ML, deep learning, NLP, and Generative AI to drive business impact in finance, healthcare, and HR domains.
+- My expertise includes predictive analytics, time series forecasting, and AI-driven automation to optimize operations and decision-making.
 
 ---
 
